@@ -16,3 +16,6 @@ This repository will be the home for code, data and a demo presented in the foll
 
 
 If you would like access to the complete dataset or had questions about this work, please e-mail swamy.14@osu.edu. A sample dataset will be made available on this repository.
+
+
+# Steps for running the demo:
