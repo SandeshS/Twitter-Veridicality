@@ -1,4 +1,4 @@
-#Forecasting event outcomes using user predictions on Twitter.
+# Forecasting event outcomes using user predictions on Twitter.
 
 
 
