@@ -22,6 +22,6 @@ If you would like access to the complete dataset or had questions about this wor
 This is joint work carried out with my advisers [Dr. Alan Ritter](http://aritter.github.io) and [Dr. Marie-Catherine de Marneffe](http://www.ling.ohio-state.edu/~demarneffe.1/). 
 
 
-Our work is picked for oral presentation at [EMNLP2017](http://emnlp2017.net/). If you happen to be in Copenhagen on September 10th, do consider attening the presentation.
+Our work is picked for oral presentation at [EMNLP2017](http://emnlp2017.net/). If you happen to be in Copenhagen on September 10th, do consider attending the presentation to learn more about our research.
 
 This work was carried out at [The Ohio State University](https://www.osu.edu/). 
