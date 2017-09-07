@@ -16,3 +16,9 @@ This repository will be the home for code, data and a demo presented in the foll
 
 
 If you would like access to the complete dataset or had questions about this work, please e-mail swamy(dot)14(at)osu(dot)edu. A sample dataset is made available on this repository.
+
+# More details
+
+This work was carried out at [The Ohio State University](https://www.osu.edu/). 
+
+This is joint work carried out with my advisers [Dr. Alan Ritter](aritter.github.io) and [Dr. Marie-Catherine de Marneffe](http://www.ling.ohio-state.edu/~demarneffe.1/). 
