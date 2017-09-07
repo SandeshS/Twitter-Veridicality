@@ -7,23 +7,23 @@ The annotations can be interpreted as follows
    
    
    
-   DY- Tweet indicates "definitely yes" towards an event happening (i.e., strong positive veridicality)
+   * DY- Tweet indicates "definitely yes" towards an event happening (i.e., strong positive veridicality)
    
    
    
-   PY- Tweet indicates "probably yes" towards an event happening (i.e., positive veridicality)
+   * PY- Tweet indicates "probably yes" towards an event happening (i.e., positive veridicality)
    
    
    
-   ND- Tweet indicates "no desire" towards an event happening (i.e., neutral)
+   * ND- Tweet indicates "no desire" towards an event happening (i.e., neutral)
    
    
    
-   PN- Tweet indicates "probably no" towards an event happening (i.e., negative veridicality)
+   * PN- Tweet indicates "probably no" towards an event happening (i.e., negative veridicality)
    
    
    
-   DN- Tweet indicates "definitely no" towards an event happening (i.e., strong negative veridicality)
+   * DN- Tweet indicates "definitely no" towards an event happening (i.e., strong negative veridicality)
    
    
 # Citing our work
