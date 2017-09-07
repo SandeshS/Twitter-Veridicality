@@ -19,6 +19,6 @@ If you would like access to the complete dataset or had questions about this wor
 
 # More details
 
-This is joint work carried out with my advisers [Dr. Alan Ritter](aritter.github.io) and [Dr. Marie-Catherine de Marneffe](http://www.ling.ohio-state.edu/~demarneffe.1/). 
+This is joint work carried out with my advisers [Dr. Alan Ritter](http://aritter.github.io) and [Dr. Marie-Catherine de Marneffe](http://www.ling.ohio-state.edu/~demarneffe.1/). 
 
 This work was carried out at [The Ohio State University](https://www.osu.edu/). 
