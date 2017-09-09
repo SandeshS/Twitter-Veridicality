@@ -37,7 +37,7 @@ If you are using this dataset in your task, cite our work as follows -
   	        author     = {Swamy, Sandesh and Ritter, Alan and de Marneffe, Marie-Catherine},
   	        booktitle  = {Proceedings of the Conference on Empirical Methods in Natural Language Processing.},
   	        year       = {2017},
-  	        url        = {https://arxiv.org/abs/1707.07212v3}
+  	        url        = {http://aclweb.org/anthology/D17-1166}
   	      }
  
 # NOTE
