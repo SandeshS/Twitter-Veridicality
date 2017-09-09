@@ -10,7 +10,7 @@ This repository will be the home for code, data and a demo presented in the foll
   	      author     = {Swamy, Sandesh and Ritter, Alan and de Marneffe, Marie-Catherine},
   	      booktitle  = {Proceedings of the Conference on Empirical Methods in Natural Language Processing.},
   	      year       = {2017},
-  	      url        = {https://arxiv.org/abs/1707.07212v3}
+  	      url        = {http://aclweb.org/anthology/D17-1166}
   	     } 
 
 
