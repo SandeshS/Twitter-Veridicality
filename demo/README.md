@@ -32,6 +32,6 @@ If you used this demo in your research project/work, do cite our work as follows
 
 You will need to get your own Twitter API keys before you can run the demo. Follow the instructions [here](http://socialmedia-class.org/twittertutorial.html)(courtesy of Prof. Xu) to get the keys and plug it into the `demo.py *lines 551-554*` file before running the demo.
 
-## Known bug
+### Known bug
 
 The scores for contenders all start off equal - this is intentional. We start with the assumption that every contender is equally likely to win. However, with the demo, the scores go up for a candidate who is predicted to win and correspondingly, the score does not go down for the other contenders. A fix will be rolled out soon.
