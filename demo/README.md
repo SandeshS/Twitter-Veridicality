@@ -19,13 +19,13 @@ The demo then runs the Twitter API to fetch realtime tweets about the event and 
 ## Citing our work
 
 If you used this demo in your research project/work, do cite our work as follows -
-      @inproceedings{ssarmcdm2017forecasting,
-      title      = {"i have a feeling trump will win..................": Forecasting Winners and Losers from User Predictions on Twitter},
-      author     = {Swamy, Sandesh and Ritter, Alan and de Marneffe, Marie-Catherine},
-      booktitle  = {Proceedings of the Conference on Empirical Methods in Natural Language Processing.},
-      year       = {2017},
-      url        = {http://aclweb.org/anthology/D17-1166}
-     } 
+          @inproceedings{ssarmcdm2017forecasting,
+           title      = {"i have a feeling trump will win..................": Forecasting Winners and Losers from User Predictions on Twitter},
+           author     = {Swamy, Sandesh and Ritter, Alan and de Marneffe, Marie-Catherine},
+           booktitle  = {Proceedings of the Conference on Empirical Methods in Natural Language Processing.},
+           year       = {2017},
+           url        = {http://aclweb.org/anthology/D17-1166}
+          } 
 
 
 ## NOTE
