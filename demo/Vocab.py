@@ -1,3 +1,5 @@
+# Author: Alan Ritter
+
 class Vocab:
     def __init__(self, vocabFile=None):
         self.locked = False
