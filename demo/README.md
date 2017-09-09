@@ -14,6 +14,7 @@ The demo then runs the Twitter API to fetch realtime tweets about the event and 
   * The first line of the file has to be the event you want to track on Twitter. (Example: Oscars, NBAAwards, Elections)
   * This line can be followed by all the contenders you want to track for that particular event. (Example: For Oscars, Leonardo di Caprio, Tom Hanks, Bradley Cooper)
   * All the contenders **have** to be separated by a newline character.
+  * An example file has been provided for you as `event1.txt`.
 * Now, you can run the demo as follows `python demo.py <filename>`
 
 ## Citing our work
