@@ -1,3 +1,6 @@
+# Authors: Sandesh Swamy, Alan Ritter, and Marie-Catherine de Marneffe
+# Copyright, 2017 
+# Demo for paper in EMNLP 2017.
 import sys
 import os
 import csv
