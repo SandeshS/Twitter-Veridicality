@@ -1,6 +1,6 @@
 # Data
 
-The data file(.csv) consists of two columns - the Tweet ID and the Veridicality Annotation. 
+The annotated data file(.csv) consists of two columns - the Tweet ID and the Veridicality Annotation. 
 
 
 The annotations can be interpreted as follows
@@ -25,6 +25,8 @@ The annotations can be interpreted as follows
    
    * DN- Tweet indicates "definitely no" towards an event happening (i.e., strong negative veridicality)
    
+   
+There is also another file - completedataset.txt which contains the entire dataset which was collected for this project. This is a file containing all the Tweet IDs for the tweets we used. Twitter policy restricts from distributing actual text data. If you are having trouble downloading actual text from the IDs, you can refer to [this](https://github.com/aritter/twitter_download) tool courtesy of [Prof. Alan Ritter](https://aritter.github.io)
    
 # Citing our work
 
