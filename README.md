@@ -2,7 +2,7 @@
 
 
 
-This repository will be the home for code, data and a demo presented in the following paper:
+This repository will be the home for code, data and a demo presented in the paper - [i have a feeling trump will win..................": Forecasting Winners and Losers from User Predictions on Twitter](http://aclweb.org/anthology/D17-1166)
 
 
     @inproceedings{ssarmcdm2017forecasting,
