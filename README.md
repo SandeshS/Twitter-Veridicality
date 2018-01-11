@@ -14,8 +14,8 @@ This repository will be the home for code, data and a demo presented in the pape
   	} 
 
 
-
-If you would like access to the complete dataset or had questions about this work, please e-mail swamy(dot)14(at)osu(dot)edu. A sample dataset is made available on this repository.
+## UDPATE
+The complete dataset is now available on the repository. If you still had questions about our work, feel free to reach out via e-mail at swamy(dot)14(at)osu(dot)edu.
 
 # More details
 
