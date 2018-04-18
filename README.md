@@ -22,6 +22,6 @@ The complete dataset is now available on the repository. If you still had questi
 This is joint work carried out with my advisers [Dr. Alan Ritter](http://aritter.github.io) and [Dr. Marie-Catherine de Marneffe](http://www.ling.ohio-state.edu/~demarneffe.1/). 
 
 
-Our work was picked for oral presentation at [EMNLP2017](http://emnlp2017.net/). You can find the talk given by [Prof. Ritter](http://aritter.github.io) [here](https://ku.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b32e970b-9cbe-46de-8174-ee80857397c4). (Talk starts at 2:55)
+Our work was picked for oral presentation at [EMNLP2017](http://emnlp2017.net/). You can find the talk given by [Prof. Ritter](http://aritter.github.io) [here](https://vimeo.com/238236876). 
 
 This work was carried out at [The Ohio State University](https://www.osu.edu/). 
