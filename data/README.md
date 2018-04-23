@@ -42,7 +42,3 @@ If you are using this dataset in your task, cite our work as follows -
   	        url        = {http://aclweb.org/anthology/D17-1166}
   	      }
  
-# NOTE
-
-The dataset available here is only a part of the dataset which was used for the task. If you would like access to the entire dataset,
-please e-mail swamy.14@osu.edu.
