@@ -15,7 +15,7 @@ The annotations can be interpreted as follows
    
    
    
-   * ND- Tweet indicates "no desire" towards an event happening (i.e., neutral)
+   * UC - uncertain towards the event's outcome (i.e., neutral)
    
    
    
