@@ -1,6 +1,6 @@
 # Data
 
-The annotated data file(.csv) consists of two columns - the Tweet ID and the Veridicality Annotation. 
+The annotated data files(training_ids, dev_ids and test_ids.txt) consists of two columns - the Tweet ID and the Veridicality Annotation. 
 
 
 The annotations can be interpreted as follows
