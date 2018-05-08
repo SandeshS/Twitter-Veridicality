@@ -6,8 +6,9 @@ Each file has three columns. The columns can be read as follows:
 
 `TweetID, Tweet Metadata, Veridicality annotation`
 
-The metadata field can be explained with an example. ['elections', 'Trump', 'Nevada'] indicates that we were annotating for the
-outcome of the election event for Trump in Nevada. Similarly, ['Oscars', 'Matthew McConaughey '] indicates that we were annotating for the outcome of the Oscars Best actor award for Matthew McConaughey.
+The `metadata` field can be explained with an example. ['elections', 'Trump', 'Nevada'] indicates that we were annotating for the
+outcome of the election event for Trump in Nevada. Similarly, ['Oscars', 'Matthew McConaughey '] indicates that we were annotating for 
+the outcome of the Oscars Best actor award for Matthew McConaughey.
 
 The annotations can be interpreted as follows
    
