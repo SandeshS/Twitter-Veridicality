@@ -1,7 +1,13 @@
 # Data
 
-The annotated data files(`training_ids`, `dev_ids` and `test_ids.txt` - this was the split we used in our experiments) consists of two columns - the Tweet ID and the Veridicality Annotation. 
+The annotated data files(`train_with_metadata`, `dev_with_metadata` and `test_with_metadata` - this was the split we used in our experiments) consists of two columns - the Tweet ID and the Veridicality Annotation. 
 
+Each file has three columns. The columns can be read as follows:
+
+`TweetID, Tweet Metadata, Veridicality annotation`
+
+The metadata field can be explained with an example. ['elections', 'Trump', 'Nevada'] indicates that we were annotating for the
+outcome of the election event for Trump in Nevada. Similarly, ['Oscars', 'Matthew McConaughey '] indicates that we were annotating for the outcome of the Oscars Best actor award for Matthew McConaughey.
 
 The annotations can be interpreted as follows
    
