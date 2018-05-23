@@ -1,6 +1,6 @@
 # Data
 
-The annotated data files(`train_with_metadata`, `dev_with_metadata` and `test_with_metadata` - this was the split we used in our experiments) consists of two columns - the Tweet ID and the Veridicality Annotation. 
+The annotated data files(`train_with_metadata`, `dev_with_metadata` and `test_with_metadata` - this was the split we used in our experiments).
 
 Each file has three columns. The columns can be read as follows:
 
@@ -14,11 +14,11 @@ The annotations can be interpreted as follows
    
    
    
-   * DY- Tweet indicates "definitely yes" towards an event happening (i.e., strong positive veridicality)
+   * DY - Tweet indicates "definitely yes" towards an event happening (i.e., strong positive veridicality)
    
    
    
-   * PY- Tweet indicates "probably yes" towards an event happening (i.e., positive veridicality)
+   * PY - Tweet indicates "probably yes" towards an event happening (i.e., positive veridicality)
    
    
    
@@ -26,11 +26,11 @@ The annotations can be interpreted as follows
    
    
    
-   * PN- Tweet indicates "probably no" towards an event happening (i.e., negative veridicality)
+   * PN - Tweet indicates "probably no" towards an event happening (i.e., negative veridicality)
    
    
    
-   * DN- Tweet indicates "definitely no" towards an event happening (i.e., strong negative veridicality)
+   * DN - Tweet indicates "definitely no" towards an event happening (i.e., strong negative veridicality)
    
    
 There is also another file - `completedataset.txt` which contains the entire dataset which was collected for this project. This is a file containing all the Tweet IDs for the tweets we used. Twitter policy restricts from distributing actual text data. If you are having trouble downloading actual text from the IDs, you can refer to [this](https://github.com/aritter/twitter_download) tool courtesy of [Prof. Alan Ritter](https://aritter.github.io)
